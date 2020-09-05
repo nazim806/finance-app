@@ -2,6 +2,7 @@ import React from "react";
 import { Header } from "./Components/Header";
 import { Balance } from "./Components/Balance";
 import { DebitCredit } from "./Components/DebitCredit";
+import { TransactionHistory } from "./Components/TransactionHistory";
 
 import "./App.css";
 
@@ -12,6 +13,7 @@ function App() {
       <div className="container">
         <Balance />
         <DebitCredit />
+        <TransactionHistory />
       </div>
     </div>
   );

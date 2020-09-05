@@ -40,7 +40,7 @@ h4 {
   text-transform: uppercase;
 }
 
-.inc-exp-container {
+.debit-credit-container {
   background-color: #fff;
   box-shadow: var(--box-shadow);
   padding: 20px;
@@ -49,12 +49,12 @@ h4 {
   margin: 20px 0;
 }
 
-.inc-exp-container>div {
+.debit-credit-container>div {
   flex: 1;
   text-align: center;
 }
 
-.inc-exp-container>div:first-of-type {
+.debit-credit-container>div:first-of-type {
   border-right: 1px solid #dedede;
 }
 
@@ -105,13 +105,13 @@ input[type='number'] {
   outline: 0;
 }
 
-.list {
+.catalog {
   list-style-type: none;
   padding: 0;
   margin-bottom: 40px;
 }
 
-.list li {
+.catalog li {
   background-color: #fff;
   box-shadow: var(--box-shadow);
   color: #333;
@@ -122,11 +122,11 @@ input[type='number'] {
   margin: 10px 0;
 }
 
-.list li.plus {
+.catalog li.plus {
   border-right: 5px solid #2ecc71;
 }
 
-.list li.minus {
+.catalog li.minus {
   border-right: 5px solid #c0392b;
 }
 
@@ -146,6 +146,6 @@ input[type='number'] {
   transition: opacity 0.3s ease;
 }
 
-.list li:hover .delete-btn {
+.catalog li:hover .delete-btn {
   opacity: 1;
 }
