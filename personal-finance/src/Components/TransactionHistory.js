@@ -4,10 +4,10 @@ export const TransactionHistory = () => {
   return (
     <>
       <h3>History</h3>
-      <ul id="catalog" class="catalog">
-        <li class="negative">
+      <ul className="catalog">
+        <li className="negative">
           Cash <span>-$400</span>
-          <button class="delete-btn">X</button>
+          <button className="delete-btn">X</button>
         </li>
       </ul>
     </>

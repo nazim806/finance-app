@@ -3,6 +3,7 @@ import { Header } from "./Components/Header";
 import { Balance } from "./Components/Balance";
 import { DebitCredit } from "./Components/DebitCredit";
 import { TransactionHistory } from "./Components/TransactionHistory";
+import { AddTransaction } from "./Components/AddTransaction";
 
 import "./App.css";
 
@@ -14,6 +15,7 @@ function App() {
         <Balance />
         <DebitCredit />
         <TransactionHistory />
+        <AddTransaction />
       </div>
     </div>
   );
