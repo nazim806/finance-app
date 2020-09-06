@@ -1,6 +1,7 @@
 import React, { useContext } from "react";
 import { GlobalContext } from "../Context/GlobalState";
 
+
 export const DebitCredit = () => {
   const { transactions } = useContext(GlobalContext);
 
