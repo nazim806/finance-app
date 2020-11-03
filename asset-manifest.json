@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/finance-app/static/css/main.29f25a57.chunk.css",
+    "main.js": "/finance-app/static/js/main.e6a0dc1a.chunk.js",
+    "main.js.map": "/finance-app/static/js/main.e6a0dc1a.chunk.js.map",
+    "runtime-main.js": "/finance-app/static/js/runtime-main.795ddc1e.js",
+    "runtime-main.js.map": "/finance-app/static/js/runtime-main.795ddc1e.js.map",
+    "static/js/2.feb679f8.chunk.js": "/finance-app/static/js/2.feb679f8.chunk.js",
+    "static/js/2.feb679f8.chunk.js.map": "/finance-app/static/js/2.feb679f8.chunk.js.map",
+    "index.html": "/finance-app/index.html",
+    "precache-manifest.d6db3a4bc7bef571feadbe1cb49c186e.js": "/finance-app/precache-manifest.d6db3a4bc7bef571feadbe1cb49c186e.js",
+    "service-worker.js": "/finance-app/service-worker.js",
+    "static/css/main.29f25a57.chunk.css.map": "/finance-app/static/css/main.29f25a57.chunk.css.map",
+    "static/js/2.feb679f8.chunk.js.LICENSE.txt": "/finance-app/static/js/2.feb679f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.795ddc1e.js",
+    "static/js/2.feb679f8.chunk.js",
+    "static/css/main.29f25a57.chunk.css",
+    "static/js/main.e6a0dc1a.chunk.js"
+  ]
+}
